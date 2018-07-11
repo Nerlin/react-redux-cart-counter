@@ -1,0 +1,16 @@
+.Cart--Title {
+    padding: 15px;
+    background: mediumaquamarine;
+    color: white;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+.Cart--Items {
+    padding: 15px;
+}
+
+.Cart--ItemsCount {
+    font-weight: bold;
+    color: darkcyan;
+}
